@@ -9,7 +9,7 @@
 |H\_04|fried rice|Choice|SUCCESS|SUCCESS|
 |H\_05|manchurian noodles|Choice|SUCCESS|SUCCESS|
 
-## Table no: Low Level test plan
+## Table no: restaurant bill
 ### sample bill
 
 |Test ID|HL\_ID|Description|Exp input|Exp Output|Actual Output|
